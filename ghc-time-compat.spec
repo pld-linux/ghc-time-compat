@@ -6,7 +6,7 @@
 Summary:	Compatibility package for time
 Name:		ghc-%{pkgname}
 Version:	1.9.3
-Release:	1
+Release:	2
 License:	BSD
 Group:		Development/Languages
 #Source0Download: http://hackage.haskell.org/package/time-compat
